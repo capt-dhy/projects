@@ -9,8 +9,7 @@ composer install --no-dev --optimize-autoloader
 # ---------------------------------------------
 # 2️⃣ Generate app key if missing
 # ---------------------------------------------
-php artisan key:generate --force
-
+php artisan key:generate --fo
 # ---------------------------------------------
 # 3️⃣ Clear cached config and cache
 # ---------------------------------------------
